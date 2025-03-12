@@ -1,0 +1,11 @@
+1,2024-8-12,20:00,FMI - Balul Bobocilor
+2,2024-1-9,16:30,Treasure Hunt Cluj Napoca
+3,2024-2-11,21:00,UBB - Kitsch Party Form Club
+4,2024-1-9,12:45,Hermes - Hermes Hackathon
+5,2023-12-9,10:00,Testul din 9 Decembrie la ASC
+6,2023-12-30,23:59,Revelionul 2023
+7,2021-3-10,18:00,Inceputul Pandemiei
+8,2024-7-12,20:00,Untold Festival
+9,2026-8-20,19:00,Aderarea Romaniei la Schengen
+10,2023-10-10,22:00,FSEGA - Balul Bobocilor
+11,2022-10-10,22:00,FSEGA - Balul Bobocilor
